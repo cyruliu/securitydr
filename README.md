@@ -1,4 +1,4 @@
-#Resource for Security Engineer/Analyst.
+# Resource for Security Engineer/Analyst.
 
 ## Network Security
 - sub1
@@ -24,12 +24,12 @@
 
 
 ## Application Security
-
+- sub1
 
 ## Applied Cryptography
-
+- sub1
 
 ## Capstone(Practical Projects)
-
+- sub1
 
 
