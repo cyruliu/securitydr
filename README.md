@@ -1,7 +1,12 @@
 # Resource for Security Engineer/Analyst.
 
 ## Network Security
-- sub1
+- TCP/IP, OSI models.
+- Packet analysis, web Application.
+- Network security protocols.
+- Attack tools.
+- Ports, fingerprint, catalog, firewalls, web-based exploits.
+- Playloads to backdoor access.
 
 
 
